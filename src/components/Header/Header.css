@@ -1,0 +1,19 @@
+.navbar {
+    height: 80px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding-left: 20px;
+    color: aliceblue;
+}
+
+.navbar a:hover {
+    color: blueviolet;
+}
